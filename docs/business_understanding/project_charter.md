@@ -2,6 +2,8 @@
 
 ## Business background
 
+CAROLINA LUQUE
+
 * Who is the client, what business domain the client is in.
 * What business problems are we trying to address?
 
